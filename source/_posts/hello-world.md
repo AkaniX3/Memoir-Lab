@@ -1,39 +1,39 @@
 ---
-title: Hello World
-thumbnail: images/mizuki.png
+title: Hello it's a me, Akani
+date: 2025-05-05
+thumbnail: images/hello-world/mizuki.png
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+### Welcome to me page ^^
 
-### Create a new post
+This is my very first post and I'm super excited to drop more 🔥 content here.
 
-``` bash
-$ hexo new "My New Post"
-```
+Kinda new to this stuff so still figuring out how to customize and use this site.
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### sooo, Genre ?
 
-### Run server
+well, this is mostly for posting my personal work, so u can expect alot of infosec writeups and resources.
 
-``` bash
-$ hexo server
-```
+also also, I'll try to add in my non-tech and personal stuff whenever I could !
 
-More info: [Server](https://hexo.io/docs/server.html)
+#### Categories to expect:
 
-### Generate static files
+{% note info  %}
+CTF & competitions writeups
+{% endnote %}
 
-``` bash
-$ hexo generate
-```
+{% note info  %}
+Infosec writeups (HTB, THM, BTLO etc)
+{% endnote %}
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+{% note info  %}
+Projects & Research work
+{% endnote %}
 
-### Deploy to remote sites
+{% note info  %}
+Personal stuff (maybe)
+{% endnote %}
 
-``` bash
-$ hexo deploy
-```
+### Sayonara~
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+Thanks for visiting my page 🍞✨ I hope u enjoy ur stay here <3
