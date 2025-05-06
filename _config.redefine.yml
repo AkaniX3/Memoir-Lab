@@ -37,7 +37,7 @@ defaults:
 # Docs: https://redefine-docs.ohevan.com/basic/colors
 colors:
   #Primary color
-  primary: "#ff99ff"
+  primary: "#ff99df"
   # Secondary color (TBD)
   secondary: 
   # Default theme mode initial value (will be overwritten by prefer-color-scheme)
@@ -131,7 +131,7 @@ home_banner:
   title: The Memoir Lab
   # Home banner subtitle
   subtitle:
-    text: ["clicking circles !"] # subtitle text, array
+    text: ["smashing labs !"] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
@@ -253,7 +253,7 @@ home:
         icon: fa-regular fa-folder # can be empty
       Bookmarks:
           path: /bookmarks
-          icon: fa-solid fa-bookmark
+          icon: fa-regular fa-bookmark
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
@@ -333,7 +333,7 @@ articles:
     # Article recommendation title
     title: Recommended
     # Max number of articles to display
-    limit: 2
+    limit: 3
     # Max number of articles to display mobile
     mobile_limit: 2
     # Placeholder image

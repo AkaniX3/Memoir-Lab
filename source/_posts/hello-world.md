@@ -1,7 +1,8 @@
 ---
 title: Hello it's a me, Akani
 date: 2025-05-05
-thumbnail: images/hello-world/mizuki.png
+thumbnail: '/images/hello-world/mizuki.png'
+sticky: 1
 ---
 
 ### Welcome to me page ^^
