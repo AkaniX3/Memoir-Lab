@@ -5,6 +5,8 @@ date: 2024-6-15
 tags:
   - 'CTF'
   - 'Reverse'
+category:
+    - "CTF"
 ---
 
 Our team, 'Bits & Pieces', had a blast participating in the VSCTF event, and we placed 44th rank this time, It was a great run and we tackled some really interesting challenges! Here's my writeup on the challs i solved in the CTF.

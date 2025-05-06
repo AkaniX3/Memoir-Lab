@@ -6,8 +6,10 @@ tags:
   - 'CTF'
   - 'Forensics'
   - 'Misc'
+category:
+    - "CTF"
 ---
-
+    
 My writeup on DownUnder CTF 2024, it was a big and competitive CTF but still really fun and a lot of learning! My focus was more on the Forensics and Misc Section this time.
 
 ---

@@ -3,6 +3,10 @@ title: Hello it's a me, Akani
 date: 2025-05-05
 thumbnail: '/images/hello-world/mizuki.png'
 sticky: 1
+tags:
+    - "personal"
+category:
+    - "personal"
 ---
 
 ### Welcome to me page ^^

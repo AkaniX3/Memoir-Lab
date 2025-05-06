@@ -5,6 +5,8 @@ date: 2024-06-11 12:46:20
 tags:
   - 'CTF'
   - 'Cryptography'
+category:
+    - "CTF"
 ---
 
 My writeup on Akasec CTF on the challs solved by my team 'Bits & Pieces' and we placed rank 13th on this ctf event, it was a pretty good run this time!
