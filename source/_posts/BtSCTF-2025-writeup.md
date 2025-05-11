@@ -1,7 +1,7 @@
 ---
 title: Break the Syntax 2025 writeup
 date: 2025-05-11 19:26:02
-thumbnail: 'source/images/BtS-CTF-2025/btsctf-banner.png'
+thumbnail: '/images/BtS-CTF-2025/btsctf-banner.png'
 tags:
     - "CTF"
     - "Forensics"
