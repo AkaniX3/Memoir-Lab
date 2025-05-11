@@ -9,9 +9,9 @@ Category:
     - "CTF"
 ---
 
-This is my writeup for Break the Syntax 2025 ! i got almost all the forensics challs, except for the last one (cmon i was so close 😭)
+This is my writeup for Break the Syntax 2025 ! I got almost all the forensics challs, except for the last one (cmon i was so close 😭)
 
-It was overall very stego oriented and guessy challs, but i had fun epxloring new type of challs.
+It was overall very stego oriented and guessy challs, but I had fun exploring new type of stuff.
 
 ## Forensics
 
@@ -124,7 +124,7 @@ well, this the the difference was the capture data
 
 ![image](images/BtS-CTF-2025/paint1.png)
 
-Took me a while to figure out, but again [usb HID](https://wiki.osdev.org/USB_Human_Interface_Devices) helped out in figuring out that it's usb mouse capture data
+Took me a while to figure out, but again [usb HID](https://wiki.osdev.org/USB_Human_Interface_Devices) helped in figuring out that it's usb mouse capture data
 
 A lil bit of google search and i came across this [USB mouse pcap visualizer](https://github.com/WangYihang/USB-Mouse-Pcap-Visualizer) i mean 💀 the chall is joeover now
 
@@ -168,7 +168,7 @@ Cutting short from using `pdf-parser` and other many stuff, i found this website
 
 ![image](images/BtS-CTF-2025/copypasta1.png)
 
-`Flag: BtSCTF{we_have_to_censor_that_one_and_finally_that_one}`
+`Flag: BtSCTF{we_have_to_censor_that_one_and_another_one_and_finally_that_one}`
 
 ### Sus data
 
@@ -176,7 +176,7 @@ Cutting short from using `pdf-parser` and other many stuff, i found this website
 
 > File: "Sus_data"
 
-This time i got a data file with no info using file info cmds & tools.
+This time i got a data file and found no info even after using file info cmds & tools.
 
 I opened it in `hexeditor` and obviously found that the file format is wrong.
 
@@ -210,7 +210,7 @@ I knew it's a CRC error, but I just couldn't figure out a way to fix it... ggs �
 
 I won't leave it a cliffhanger ofc- 
 
-After the ctf ended, **Tamer (@yousef15865)** on discord posted the solve on how to solve the chall, I got the privilege to add his answer here!
+After the ctf ended, **Tamer (@yousef15865)** on discord posted the solve on how to solve the chall, and I got the privilege to add his answer here!
 
 The issue was that the IEND chunk's CRC ended up inside the IDAT chunk by mistake. This made the IDAT chunk 4 bytes longer than it should’ve been. Once we removed the misplaced IEND CRC from the IDAT chunk, the image should load correctly.
 
@@ -235,7 +235,7 @@ remove_hex_pattern('Sus_data', 'AE426082')
 
 and voila, u can open the image!
 
-and again a huge thanks to **Tamer (@yousef15865)** for helping complete this one.
+and again a huge thanks to **Tamer (@yousef15865)** for helping in completing this one.
 
 ![image](images/BtS-CTF-2025/sus2.png)
 
