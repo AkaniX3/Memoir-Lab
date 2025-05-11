@@ -1,8 +1,12 @@
 ---
 title: Break the Syntax 2025 writeup
 date: 2025-05-11 19:26:02
-thumbnail: 
+thumbnail: 'source/images/BtS-CTF-2025/btsctf-banner.png'
 tags:
+    - "CTF"
+    - "Forensics"
+Category:
+    - "CTF"
 ---
 
 This is my writeup for Break the Syntax 2025 ! i got almost all the forensics challs, except for the last one (cmon i was so close 😭)
