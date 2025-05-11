@@ -49,6 +49,17 @@ Tools which helped out:
 - Event log explorer
 - Timeline Explorer
 
+### UFO-1
+
+Mostly the MITRE stuff again to analyse, this stuff helped
+
+- [MITRE CTI](https://attack.mitre.org/campaigns/) (Groups, Software, Campaigns)
+- [MITRE navigator layers](https://mitre-attack.github.io/attack-navigator/)
+
+### CrownJewel-1 
+
+meow
+
 ## Threat Intelligence
 
 ### Dream Job-1
