@@ -47,7 +47,7 @@ I'm not pro with event log analysis stuff, so the given hints were super useful 
 Tools which helped out:
 
 - EvtxECmd
-- Event log explorer
+- Event Log Explorer
 - Timeline Explorer
 
 ### UFO-1
@@ -59,7 +59,14 @@ Mostly the MITRE stuff again to analyse, this stuff helped
 
 ### CrownJewel-1 
 
-meow
+It was a good chall for AD + DC forensics (Active Directory, Domain Controller), where I had to inspect the MFT (Master File Table)
+
+Useful Stuff:
+
+- [MTFEcmd tool](https://github.com/EricZimmerman/MFTECmd)
+- Windows Event Viewer
+- Timeline Explorer
+- Just read thru logs and it'll make sense eventually
 
 ## Threat Intelligence
 
