@@ -61,12 +61,24 @@ Mostly the MITRE stuff again to analyse, this stuff helped
 
 It was a good chall for AD + DC forensics (Active Directory, Domain Controller), where I had to inspect the MFT (Master File Table)
 
+One huge tip, rely on hints if u are new to 
+
 Useful Stuff:
 
 - [MTFEcmd tool](https://github.com/EricZimmerman/MFTECmd)
 - Windows Event Viewer
 - Timeline Explorer
 - Just read thru logs and it'll make sense eventually
+
+### CrownJewel-2
+
+This one was even faster and easier after i got used to analyzing similar event log files in CrownJewel-1 
+
+Stuff required:
+
+- Windows Event Viewer
+- Make use of "Find" and check details of logs
+
 
 ## Threat Intelligence
 
